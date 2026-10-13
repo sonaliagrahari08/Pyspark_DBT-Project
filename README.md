@@ -11,6 +11,7 @@ This project implements the Medallion Architecture using PySpark and Databricks 
 ## Technologies Used
 - Azure Databricks
 - PySpark
+- DBT
 - Apache Spark Structured Streaming
 - Delta Lake
 - Python
