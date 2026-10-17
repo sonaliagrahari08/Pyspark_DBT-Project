@@ -1,4 +1,4 @@
-📌 Project Overview
+📌 Silver Layer 
 
 The Silver Layer is responsible for cleaning, validating, and transforming raw data ingested into the Bronze Layer. This project uses PySpark and Delta Lake in Azure Databricks to prepare reliable, structured data for downstream analytics.
 
