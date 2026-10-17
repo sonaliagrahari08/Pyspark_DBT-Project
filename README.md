@@ -1,4 +1,4 @@
-# Loan Data Engineering Project
+# PySpark & DBT Project
 
 ## Overview
 This project implements the Medallion Architecture using PySpark and Databricks to process loan-related data through Bronze, Silver, and Gold layers.
